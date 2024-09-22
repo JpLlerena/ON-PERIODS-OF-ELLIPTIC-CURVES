@@ -1,4 +1,4 @@
-# j_invariant_valuation
+# ON PERIODS OF ELLIPTIC CURVES
 This code was used in the article "On periods of elliptic curves" by Daniel Barrera and Juan-Pablo Llerena.
 ## Objective
 The objective of this code was to study Expectation 8.2 of the aformentioned article. This expectatoin relates the p-adic valuation of a j-invariant of a rational elliptic curve, when p is a prime for which E has split multiplicative reduction.
