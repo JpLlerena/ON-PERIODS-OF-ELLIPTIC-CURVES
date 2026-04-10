@@ -5,8 +5,7 @@ The objective of this code was to study Expectation 8.2 of the aformentioned art
 
 This code also allowed us to study the more general question: "Let E be a rational elliptic curve of conductor N, let p be a prime such that p divides N and j_E be the j-invariant of E. If ell > 5 is a prime such that ell|p-1 and it is coprime to the modular degree of E, then (ord_p(j_E),ell) = 1".
 
-The code was runned on all the elliptic curves in the cremona database version 2022-10-13: https://zenodo.org/records/7194436
-
+The code was runned on all the elliptic curves in the cremona database version 2022-10-13: https://zenodo.org/records/7194436. Also, the version of SageMath used was ``SageMath version 10.9.beta7``
 ## Structure
 
 There are 3 files and 1 folder in this project:
